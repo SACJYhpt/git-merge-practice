@@ -8,6 +8,6 @@ using namespace std;
 
 int main(){
     haruhikage
-    cout << "Hello World!" << endl;
+    cout << "Hello from Master Branch" << endl;
     return 0;
 }
